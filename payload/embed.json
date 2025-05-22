@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    "hello world",
+    "hello earth"
+  ],
+  "servingMode": {
+    "servingType": "ON_DEMAND",
+    "modelId": "cohere.embed-english-light-v3.0"
+  },
+  "truncate": "NONE",
+  "compartmentId": "ocid1.compartment.oc1..xxxx"
+}
